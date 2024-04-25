@@ -1,0 +1,29 @@
+
+.table {
+    width: 100%;
+    overflow-x:hidden;
+  }
+  
+  @media (max-width: 768px) {
+    .table td,
+    .table th {
+      padding: 0.75rem;
+    }
+  }
+  
+  .quantity-controls {
+    display: flex;
+    align-items: center;
+  }
+  
+  @media (max-width: 576px) {
+    .quantity-controls button {
+      margin: 0.2rem;
+    }
+  }
+  
+  .text-center {
+    text-align: center;
+  }
+  
+  
