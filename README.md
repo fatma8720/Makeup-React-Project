@@ -1,70 +1,15 @@
-# Getting Started with Create React App
-
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+![Screenshot 2024-05-08 at 10-06-22 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/0feb6403-3701-4089-9d77-2c0f8036d320)
+![Screenshot 2024-05-08 at 10-05-59 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/c6079764-e450-4b53-909e-3c536a8037fb)
+![Screenshot 2024-05-08 at 10-17-00 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/7a7e98f1-ecb7-4978-bc30-d44c2fb2e797)
+![Screenshot 2024-05-08 at 10-16-21 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/0fed4143-6908-4feb-9ac3-2a9bbfd0118d)
+![Screenshot 2024-05-08 at 10-15-21 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/0e7f00b5-ac00-4bfd-909d-d26a91cc7256)
+![Screenshot 2024-05-08 at 10-13-31 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/07b2a335-8690-4bb2-83ad-cb613e002722)
+![Screenshot 2024-05-08 at 10-12-55 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/e0d912c9-6d70-4b64-8f55-b4ba5757f89f)
+![Screenshot 2024-05-08 at 10-12-04 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/8f85e66f-e7da-44ff-9069-4ff88eefed97)
+![Screenshot 2024-05-08 at 10-09-34 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/15fd0cb1-a300-4f14-8edd-95b68091700e)
+![Screenshot 2024-05-08 at 10-09-20 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/23ec061f-8b9d-4280-86ea-1f7ffdc9852e)
+![Screenshot 2024-05-08 at 10-09-08 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/b7d87f3b-8d15-496a-bfc6-055061978674)
+![Screenshot 2024-05-08 at 10-08-23 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/7afea5f8-1a78-414d-8f35-a7132da6e73d)
+![Screenshot 2024-05-08 at 10-08-10 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/d265c873-bcf1-4460-a2c4-422d0548d80e)
+![Screenshot 2024-05-08 at 10-07-40 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/07d0f354-ba64-43ab-b598-2ba0153f95a7)
+![Screenshot 2024-05-08 at 10-07-15 React App](https://github.com/fatma8720/Makeup-React-Project/assets/88749492/c1382be8-6d40-4b2f-89ef-41d1e7372315)
